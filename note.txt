@@ -1,0 +1,28 @@
+
+Tạo user    : http://apiforlearning.zendvn.com/api/users/create
+
+Đăng nhập   : http://apiforlearning.zendvn.com/api/auth/login
+Đăng xuất   : http://apiforlearning.zendvn.com/api/auth/logout
+Thông tin   : http://apiforlearning.zendvn.com/api/auth/me
+Update      : http://apiforlearning.zendvn.com/api/auth/update
+
+
+
+
+
+
+Đăng nhập   : http://apiforlearning.zendvn.com/auth/login
+
+    => key : token
+
+
+Mua hàng , tra thông tin , đăng xuất , thông tin , update ,.... 
+    => Cần key mới vào được
+
+
+
+
+
+
+
+
